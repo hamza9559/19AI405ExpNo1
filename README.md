@@ -1,8 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
 <h3>Name: Saravanan N</h3>
 <h3>Register Number: 212221230058 
-
-
 <h3>AIM:</h3>
 <br>
 <p>To find the PEAS description for the given AI problem and develop an AI agent.</p>
@@ -40,7 +38,6 @@
 <p>Treat unhealthy patients in each room. And check for the unhealthy patients in random room</p>
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
-
 # PROGRAM :
 ~~~
 import random
