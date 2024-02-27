@@ -1,5 +1,5 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Saravanan N</h3>
+<h3>Name: Meiyarasi . V </h3>
 <h3>Register Number: 212221230058 
 <h3>AIM:</h3>
 <br>
